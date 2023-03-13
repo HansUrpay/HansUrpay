@@ -36,7 +36,7 @@
 
 
 <!-- ## My Skill Set   -->
-<table><tr><td valign="top" width="50%" align="center">
+<table align="center"><tr><td valign="top" width="50%" align="center">
 
 
 
