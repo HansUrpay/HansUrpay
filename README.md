@@ -49,7 +49,7 @@
 
 
 ### Backend  
-<div align="center">  
+<div align="center" style="padding:15px">  
 <a href="https://www.python.org/" target="_blank"><img style="margin-bottom: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin-bottom: 15px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin-bottom: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
