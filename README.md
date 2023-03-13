@@ -27,6 +27,12 @@
 <a href="https://github.com/HansUrpay" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.hansurpay.site/" target="_blank">
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30' style="margin:5px">
+</a>
+<a href=mailto:hansurpayh@gmail.com target="_blank">
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='30' style="margin:5px">
+</a>
 </div>
 
 <br/>  
