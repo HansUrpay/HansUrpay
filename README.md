@@ -4,7 +4,7 @@
 
 ### Conóceme  
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" height="300"/>
 </div>  
   
 <br>
@@ -26,6 +26,9 @@
 </a>
 <a href="https://github.com/HansUrpay" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+<a href="https://github.com/HansUrpay" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>
 
