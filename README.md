@@ -9,14 +9,9 @@
   
 <br>
 
+<br/>  
+
 ### <div align="center">Mi nombre es Hans, soy desarrollador backend web 👨‍💻 me gusta realizar proyectos de manera individual y colaborar con proyectos en equipo 🚀</div>  
-  
-<br>
-
-- 🔭 Te invito a conocer un poco más sobre mis proyectos -> [Repos](https://github.com/HansUrpay?tab=repositories)💻  
-  
-
-- Me encuentro adquiriendo nuevas habilidades y estas son las tecnologías que manejo actualmente 📝  
 
 <br>
 
@@ -35,8 +30,15 @@
 </a>
 </div>
 
-<br/>  
+  
+<br>
 
+- 🔭 Te invito a conocer un poco más sobre mis proyectos -> [Repos](https://github.com/HansUrpay?tab=repositories)💻  
+  
+
+- Me encuentro adquiriendo nuevas habilidades y estas son las tecnologías que manejo actualmente 📝  
+
+<br>
 
 <!-- ## My Skill Set   -->
 <table align="center"><tr><td valign="top" width="50%" align="center">
