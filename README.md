@@ -22,7 +22,7 @@
 <a href="https://github.com/HansUrpay" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 10px;" />
 </a>
-<a href="https://www.hansurpay.site/" target="_blank">
+<a href="https://hans-portfolio.vercel.app/" target="_blank">
 <img src='./icons/web.svg' alt='website' height='30' style="margin:10px">
 </a>
 <a href=mailto:hansurpayh@gmail.com target="_blank">
