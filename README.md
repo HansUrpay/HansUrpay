@@ -38,7 +38,7 @@
 <br>
 
 <!-- ## My Skill Set   -->
-<table align="center"><tr><td valign="top" width="50%" align="center">
+<table align="center"><tr><td valign="top" width="30%" align="center">
 
 ### Frontend
 
@@ -69,7 +69,6 @@
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
 </div>
 
-<!-- </td></tr></table> -->
 </td><td valign="top" width="30%" align="center">
 
 ### Bases de Datos
